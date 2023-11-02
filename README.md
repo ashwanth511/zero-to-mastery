@@ -1,2 +1,2 @@
 # zero-to-mastery
-Zero to Mastery Open Source
+Zero to Mastery Open Source Contribution File
